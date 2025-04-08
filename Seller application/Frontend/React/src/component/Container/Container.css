@@ -1,0 +1,15 @@
+.window{
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    position: fixed;
+   
+    margin-left: 210px;
+    display: flex;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  
+}
+

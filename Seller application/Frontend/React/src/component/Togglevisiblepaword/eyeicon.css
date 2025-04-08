@@ -1,0 +1,44 @@
+.signup{
+    height: 20px;
+    width: 20px;
+  margin-left: 90px;
+   position: fixed;
+   margin-top: 20px;
+   margin-right: 10px;
+  
+}
+
+.login{
+   height: 20px;
+   width: 20px;
+   margin-left: 90px;
+   margin-top: 2px;
+   position: fixed;
+   bottom: 145px;
+   display:inline-block;
+
+
+}
+
+          
+.newpassword{
+    height: 20px;
+   width: 20px;
+   margin-left: 90px;
+   margin-top: 2px;
+   position: fixed;
+   bottom: 180px;
+   display:inline-block;
+
+}
+
+.newpasswordone{
+    height: 20px;
+   width: 20px;
+   margin-left: 90px;
+   margin-top: 2px;
+   position: fixed;
+   bottom: 230px;
+   display:inline-block;
+
+}

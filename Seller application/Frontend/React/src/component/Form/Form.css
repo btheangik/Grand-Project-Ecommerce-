@@ -1,0 +1,52 @@
+.Forms{
+    display: flex;
+    flex-direction: column;
+}
+
+.input{
+    margin-top: 10px;
+    height: 30px;
+    width: 500px;
+    border-radius: 0.5rem;
+   box-shadow: 5px 5px 10px rgb(0, 0, 0);
+  background-color: rgb(22, 20, 20);
+  color: white;
+}
+
+.description{
+     margin-top: 10px;
+    height: 150px;
+    width: 500px;
+    border-radius: 0.5rem;
+   box-shadow: 5px 5px 10px rgb(0, 0, 0);
+  background-color: rgb(22, 20, 20);
+  color: white;
+
+}
+
+
+.inputfile1{
+    margin-top: 10px;
+    margin-left: 180px;
+    display: none;
+   
+    
+}
+
+.img{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 1rem;
+}
+
+.btn{
+    height: 50px;
+    width: 200px;
+    border-radius: 0.9rem;
+    margin-top: 10px;
+    background-color: rgb(22, 20, 20);
+    color: white;
+    
+    box-shadow: 5px 5px 10px  rgb(0, 0, 0);
+}
